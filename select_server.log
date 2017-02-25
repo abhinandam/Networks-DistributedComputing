@@ -1,0 +1,6 @@
+Sat Feb 25 14:26:37 2017
+	----- Echo Server -----
+selectserver: new connection from 127.0.0.1 on socket 5
+The following string was received by the server: jkahdfwoi
+
+selectserver: socket 5 hung up
